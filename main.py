@@ -1,1 +1,4 @@
-print('Hola mundo')
+def functionCurva(x)
+    return x+10
+
+print(funcionCurva(10))
